@@ -6,3 +6,8 @@ You can play Pulsus here: https://pulsus.cc/play
 You can download Pulsus here: https://tetrogem.itch.io/pulsus
 
 Pulsus Discord: https://discord.gg/B77pTZp
+
+Credits:
+
+TetroGem (Creator of Pulsus)
+Kanteer (Code and GUI)
