@@ -9,5 +9,5 @@ Pulsus Discord: https://discord.gg/B77pTZp
 
 Credits:
 
-TetroGem (Creator of Pulsus)
+TetroGem (Creator of Pulsus) </b>
 Kanteer (Code and GUI)
